@@ -1,13 +1,13 @@
-4.01-4.07 »úÆ÷Ñ§Ï°1ÕÂcaffe±àÒë 
- 4.08-4.14 »úÆ÷Ñ§Ï°µÚ2ÕÂmnistÑµÁ·ºÍÔ¤²âÊµÀı c++
- 4.15-4.21 »úÆ÷Ñ§Ï°µÚ3ÕÂpython»ù´¡
- 4.22-4.28 »úÆ÷Ñ§Ï°µÚ3ÕÂc++Ñ§Ï°
- 4.29-5.05 »úÆ÷Ñ§Ï°µÚ4ÕÂine-tune the ImageNet-trained CaffeNet on the "Flickr Style" dataset. ÒªÇó¿´¶®
-5.06-5.12»úÆ÷Ñ§Ï°µÚ4ÕÂFine-tuning for style recognition ÒªÇó¿´¶®
- 5.13-5.19 »úÆ÷Ñ§Ï°µÚ5ÕÂextract_features.cpp£¬ÔËĞĞ½á¹ûÕıÈ·£¬´úÂëÌí¼ÓÏêÏ¸×¢ÊÍ
- 5.20-5.26I»úÆ÷Ñ§Ï°µÚ6ÕÂimageNet tutorial ÒªÇó¿´¶® CIFAR-10 tutorial ÒªÇó¿´¶®
- Feature extraction with Caffe C++ code. ÒªÇó¿´¶®´úÂë     
- 5.27-6.02»úÆ÷Ñ§Ï°µÚ7ÕÂFine-tune the ImageNet-trained CaffeNet on the "Flickr Style" dataset. ÒªÇó¿´¶®CaffeNet C++ Classification example ÒªÇó¿´¶®´úÂëclassification.cpp²¢ÔËĞĞ½á¹ûÕıÈ·£¬´úÂëÌí¼ÓÏêÏ¸×¢ÊÍ
- 6.03-6.09»úÆ÷Ñ§Ï°µÚ8ÕÂopencvµÄ±àÒë ÕÒÁ½¸öpythonµ÷ÓÃcaffeµÄÊµÀı£¬µ÷ÊÔ³É¹¦²¢ÔËĞĞ½á¹ûÕıÈ·£¬ÒªÇó»áµ¥²½µ÷ÊÔpython´úÂë
-6.10-6.16  »úÆ÷Ñ§Ï°µÚ9ÕÂ  opencvÊ¹ÓÃÀûÓÃopencvÊµÏÖ10¸öĞ¡Àı×Ó£¬Ã¿¸öÀı×ÓÊµÏÖÒ»¸öĞ¡¹¦ÄÜÖÁÉÙÓ¦°üÀ¨£ºÍ¼ÏñËõ·Å¡¢±ßÔµ¼ì²â
-6.17-6.23   »úÆ÷Ñ§Ï°µÚ10ÕÂ½ÓÉÏĞÇÆÚÈÎÎñ ÈËÁ³¼ì²â¡¢ĞĞÈË¼ì²â¡¢Ä¿±ê¸ú×Ù¡¢ÌØÕ÷µãÆ¥Åä
+4.01-4.07 æœºå™¨å­¦ä¹ 1ã€2ç« caffeç¼–è¯‘ 
+ 4.08-4.14 æœºå™¨å­¦ä¹ ç¬¬3ç« mnistè®­ç»ƒå’Œé¢„æµ‹å®ä¾‹ c++
+ 4.15-4.21 æœºå™¨å­¦ä¹ ç¬¬3ç« pythonåŸºç¡€
+ 4.22-4.28 æœºå™¨å­¦ä¹ ç¬¬4ç« c++å­¦ä¹ 
+ 4.29-5.05 æœºå™¨å­¦ä¹ ç¬¬4ç« ine-tune the ImageNet-trained CaffeNet on the "Flickr Style" dataset. è¦æ±‚çœ‹æ‡‚
+5.06-5.12æœºå™¨å­¦ä¹ ç¬¬5ç« Fine-tuning for style recognition è¦æ±‚çœ‹æ‡‚
+ 5.13-5.19 æœºå™¨å­¦ä¹ ç¬¬5ç« extract_features.cppï¼Œè¿è¡Œç»“æœæ­£ç¡®ï¼Œä»£ç æ·»åŠ è¯¦ç»†æ³¨é‡Š
+ 5.20-5.26Iæœºå™¨å­¦ä¹ ç¬¬6ç« imageNet tutorial è¦æ±‚çœ‹æ‡‚ CIFAR-10 tutorial è¦æ±‚çœ‹æ‡‚
+ Feature extraction with Caffe C++ code. è¦æ±‚çœ‹æ‡‚ä»£ç      
+ 5.27-6.02æœºå™¨å­¦ä¹ ç¬¬7ç« Fine-tune the ImageNet-trained CaffeNet on the "Flickr Style" dataset. è¦æ±‚çœ‹æ‡‚CaffeNet C++ Classification example è¦æ±‚çœ‹æ‡‚ä»£ç classification.cppå¹¶è¿è¡Œç»“æœæ­£ç¡®ï¼Œä»£ç æ·»åŠ è¯¦ç»†æ³¨é‡Š
+ 6.03-6.09æœºå™¨å­¦ä¹ ç¬¬8ç« opencvçš„ç¼–è¯‘ æ‰¾ä¸¤ä¸ªpythonè°ƒç”¨caffeçš„å®ä¾‹ï¼Œè°ƒè¯•æˆåŠŸå¹¶è¿è¡Œç»“æœæ­£ç¡®ï¼Œè¦æ±‚ä¼šå•æ­¥è°ƒè¯•pythonä»£ç 
+6.10-6.16  æœºå™¨å­¦ä¹ ç¬¬9ç«   opencvä½¿ç”¨åˆ©ç”¨opencvå®ç°10ä¸ªå°ä¾‹å­ï¼Œæ¯ä¸ªä¾‹å­å®ç°ä¸€ä¸ªå°åŠŸèƒ½è‡³å°‘åº”åŒ…æ‹¬ï¼šå›¾åƒç¼©æ”¾ã€è¾¹ç¼˜æ£€æµ‹
+6.17-6.23   æœºå™¨å­¦ä¹ ç¬¬10ç« æ¥ä¸Šæ˜ŸæœŸä»»åŠ¡ äººè„¸æ£€æµ‹ã€è¡Œäººæ£€æµ‹ã€ç›®æ ‡è·Ÿè¸ªã€ç‰¹å¾ç‚¹åŒ¹é…
