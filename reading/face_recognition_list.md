@@ -18,17 +18,22 @@ author: Grigory Antipov
 
 link: https://arxiv.org/abs/1702.01983
 
-## Wasserstein GAN
+owner: nipeiqing/yangli, 2017.4.11~
+
+## Wasserstein GAN 2017
 
 link: https://arxiv.org/abs/1701.07875
 
 code: https://github.com/carpedm20/DCGAN-tensorflow
 
-## A Light CNN for Deep Face Representation with Noisy Labels 2015
+## Large-Margin Softmax Loss for Convolutional Neural Networks (ICML 2016)
 
-link: https://arxiv.org/abs/1511.02683
+link: https://arxiv.org/pdf/1612.02295.pdf
 
-code: https://github.com/AlfredXiangWu/face_verification_experiment
+code: https://github.com/luoyetx/mx-lsoftmax
+https://github.com/wy1iu/LargeMargin_Softmax_Loss
+
+owner: 
 
 ## A Discriminative Feature Learning Approach for Deep Face Recognition (eccv 2016)
 
@@ -42,11 +47,11 @@ link: https://arxiv.org/abs/1503.03832
 
 code: none
 
-## Learning Face Representation from Scratch 2014
+## A Light CNN for Deep Face Representation with Noisy Labels 2015
 
-link: https://arxiv.org/abs/1411.7923
+link: https://arxiv.org/abs/1511.02683
 
-none
+code: https://github.com/AlfredXiangWu/face_verification_experiment
 
 ## Deep Face Recognition 2015
 
@@ -54,5 +59,9 @@ link: http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf?ut
 
 code: http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 
+## Learning Face Representation from Scratch 2014
 
+link: https://arxiv.org/abs/1411.7923
+
+none
 
