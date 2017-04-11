@@ -18,11 +18,21 @@ author: Grigory Antipov
 
 link: https://arxiv.org/abs/1702.01983
 
+owner: nipeiqing/yangli
+
 ## Wasserstein GAN 2017
 
 link: https://arxiv.org/abs/1701.07875
 
 code: https://github.com/carpedm20/DCGAN-tensorflow
+
+## Large-Margin Softmax Loss for Convolutional Neural Networks (ICML 2016)
+
+link: https://arxiv.org/pdf/1612.02295.pdf
+
+code: https://github.com/luoyetx/mx-lsoftmax
+https://github.com/wy1iu/LargeMargin_Softmax_Loss
+
 
 ## A Discriminative Feature Learning Approach for Deep Face Recognition (eccv 2016)
 
