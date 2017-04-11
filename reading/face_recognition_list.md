@@ -18,7 +18,7 @@ author: Grigory Antipov
 
 link: https://arxiv.org/abs/1702.01983
 
-owner: nipeiqing/yangli
+owner: nipeiqing/yangli, 2017.4.11~
 
 ## Wasserstein GAN 2017
 
@@ -33,6 +33,7 @@ link: https://arxiv.org/pdf/1612.02295.pdf
 code: https://github.com/luoyetx/mx-lsoftmax
 https://github.com/wy1iu/LargeMargin_Softmax_Loss
 
+owner: 
 
 ## A Discriminative Feature Learning Approach for Deep Face Recognition (eccv 2016)
 
