@@ -1,9 +1,8 @@
+## Improving Person Re-identification by Attribute and Identity Learning
 
-* title
+link: https://arxiv.org/abs/1703.07220
 
-link
-
-code
+code: 
 
 
 
