@@ -1,6 +1,6 @@
 
 
-Learning Residual Images for Face Attribute Manipulation, 2016
+* Learning Residual Images for Face Attribute Manipulation, 2016
 
 link: https://arxiv.org/abs/1612.05363
 
