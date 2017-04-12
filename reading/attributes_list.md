@@ -1,4 +1,9 @@
 
+
+## Semi-Latent GAN: Learning to generate and modify facial images from attributes, 2017
+
+link: https://arxiv.org/pdf/1704.02166.pdf
+
 ## Learning Residual Images for Face Attribute Manipulation, 2016
 
 link: https://arxiv.org/abs/1612.05363
