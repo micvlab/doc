@@ -10,6 +10,8 @@ link: https://arxiv.org/abs/1702.03041
 
 author: Xi Yin, Xiaoming Liu
 
+owner: taoyunuo/xiaozhipeng
+
 link: https://arxiv.org/pdf/1702.04710
 
 ## Face Aging With Conditional Generative Adversarial Networks 2017
