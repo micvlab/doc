@@ -1,1 +1,11 @@
-
+4.13-4.19 机器学习第1-2章，C++
+4.14-4.20 机器学习第3章，C++
+4.21-4.27 机器学习第4-5章，C++，Python基础，mnist训练和预测实例
+4.28-5.4  机器学习第6章，caffe训练和预测实例，ImageNet tutorial 要求看懂
+5.5-5.11  机器学习第7章，LeNet MNIST Tutorial 要求看懂并运行结果正确，CIFAR-10 tutorial 要求看懂
+5.12-5.18 机器学习第8章，Fine-tuning for style recognition 要求看懂，Fine-tune the ImageNet-trained CaffeNet on the "Flickr Style" dataset. 要求看懂
+5.19-5.25 Feature extraction with Caffe C++ code. 要求看懂代码extract_features.cpp，运行结果正确，代码添加详细注释，CaffeNet C++ Classification example 要求看懂代码classification.cpp并运行结果正确，代码添加详细注释
+5.26-6.1 机器学习第9章，caffe python实例代码理解和运行
+6.2-6.8  机器学习第10章，opencv的编译
+6.9-6.15 opencv使用，利用opencv实现10个小例子
+6.16-6.22 caffe代码理解，找不少于2000行尽可能连贯的caffe内核代码，添加详细注释。
