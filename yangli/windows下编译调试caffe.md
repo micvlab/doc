@@ -14,11 +14,11 @@
 
 用cmake 配置根目录下的cmakelists.txt，即where is the source code填入cmakelists.txt所在目录，where to build the binaries填入根目录下的一个新建目录。
 
-然后configure, 提示要下载libraries_v120_x64_py27_1.1.0.tar.bz2，根据vs版本不同，文件名可能不同。如果下载通常很慢，建议用下载工具直接下载。
+然后configure, 提示要下载libraries_v120_x64_py27_1.1.0.tar.bz2，根据vs版本不同，文件名可能不同。下载通常很慢，建议用下载工具直接下载。
 
 在caffe根目录下用notepad搜索 下载的提示，找到下载地址，https://github.com/willyd/caffe-builder/releases/download/v1.1.0/libraries_v120_x64_py27_1.1.0.tar.bz2
 
-复制到它提示的目录下。再configure
+下载后复制到它提示的目录下，通常是类似这样的目录 C:\Users\yourname\.caffe\dependencies\download 。再configure。
 
 如果提示atlas错误，把BLAS 选项改为Open，意思是用OpenBlas
 
