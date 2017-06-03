@@ -6,7 +6,13 @@
 
 1. 先装anaconda
 
-2. 用cmake 直接配置根目录下的cmakelists.txt
+2. 下载caffe windows版本源码，生成vs工程
+
+项目地址： https://github.com/BVLC/caffe
+
+最好用git clone下载源码，branch 选择windows，
+
+用cmake 配置根目录下的cmakelists.txt
 
 提示要下载libraries_v120_x64_py27_1.1.0.tar.bz2，根据vs版本不同，文件名可能不同。如果下载很慢，建议用下载工具直接下载。
 
@@ -14,13 +20,15 @@
 
 复制到它提示的目录下。再configure
 
-如果提示atlas错误，则改为openblas
+如果提示atlas错误，把BLAS 选项改为Open，意思是用OpenBlas
 
-如果没有gpu，记得勾选cpu_only
+第一次使用，建议勾选cpu_only。如果有GPU并安装cuda，则可以不勾选。
 
 然后generate ，成功。
 
 3. 打开生成的sln文件，编译，大功告成。
+
+尝试：在tools目录下的某个工程（例如caffe.bin，extract_features等）上右键，设置为启动项目，然后ctrl+f5运行，如果可以运行，则说明已经编译好了。
 
 
 
