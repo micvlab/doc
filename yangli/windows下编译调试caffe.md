@@ -18,7 +18,7 @@
 
 在caffe根目录下用notepad搜索 下载的提示，找到下载地址，https://github.com/willyd/caffe-builder/releases/download/v1.1.0/libraries_v120_x64_py27_1.1.0.tar.bz2
 
-下载后复制到它提示的目录下，通常是类似这样的目录 C:\Users\yourname\.caffe\dependencies\download 。再configure。
+下载后复制到它提示的目录下，通常是类似这样的目录 C:\Users\yourname\ .caffe\dependencies\download 。再configure。
 
 如果提示atlas错误，把BLAS 选项改为Open，意思是用OpenBlas
 
