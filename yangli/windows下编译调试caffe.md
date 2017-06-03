@@ -28,7 +28,7 @@
 
 3. 打开生成的sln文件，编译，大功告成。
 
-尝试：在tools目录下的某个工程（例如caffe.bin，extract_features等）上右键，设置为启动项目，然后ctrl+f5运行，如果可以运行，则说明已经编译好了。
+验证：在tools目录下的某个工程（例如caffe.bin，extract_features等）上右键，设置为启动项目，然后ctrl+f5运行，如果可以运行，则说明已经编译好了。
 
 
 
