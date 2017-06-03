@@ -12,9 +12,9 @@
 
 最好用git clone下载源码，branch 选择windows，
 
-用cmake 配置根目录下的cmakelists.txt
+用cmake 配置根目录下的cmakelists.txt，即where is the source code填入cmakelists.txt所在目录，where to build the binaries填入根目录下的一个新建目录。
 
-提示要下载libraries_v120_x64_py27_1.1.0.tar.bz2，根据vs版本不同，文件名可能不同。如果下载很慢，建议用下载工具直接下载。
+然后configure, 提示要下载libraries_v120_x64_py27_1.1.0.tar.bz2，根据vs版本不同，文件名可能不同。如果下载通常很慢，建议用下载工具直接下载。
 
 在caffe根目录下用notepad搜索 下载的提示，找到下载地址，https://github.com/willyd/caffe-builder/releases/download/v1.1.0/libraries_v120_x64_py27_1.1.0.tar.bz2
 
