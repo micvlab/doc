@@ -4,6 +4,8 @@
 2017.5.28 更新
 发现 caffe官方windows版本已经不提供vs工程文件了，要用cmake编译。重新记录过如下
 
+开发环境：Windows 7/10，64位，Visual Studio 2013以上版本，推荐2015
+
 1. 先装anaconda
 
 2. 下载caffe windows版本源码，生成vs工程
